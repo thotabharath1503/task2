@@ -19,7 +19,7 @@ In this project, I used Power BI to create interactive reports and dashboards th
 - [Any other features you implemented]
 
 ## Screenshots
-![Dashboard Screenshot](Screenshots/dashboard.png)
+![Dashboard Screenshot](Screenshot 2025-04-23 223954.png)
 
 
 ## Setup and Requirements
