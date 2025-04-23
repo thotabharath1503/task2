@@ -18,10 +18,6 @@ In this project, I used Power BI to create interactive reports and dashboards th
 - Data exploration with different types of visualizations (e.g., pie charts, bar charts, line graphs, etc.)
 - [Any other features you implemented]
 
-## Screenshots
-![Dashboard Screenshot](Screenshot 2025-04-23 223954.png)
-
-
 ## Setup and Requirements
 To explore and view the Power BI report:
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) if you don't already have it.
