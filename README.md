@@ -37,7 +37,6 @@ If your Power BI report relies on any external data sources or scripts, provide 
 ## Conclusion
 This project demonstrates the power of Power BI in transforming raw data into meaningful insights through interactive visualizations. It showcases my ability to work with various data sources, clean and prepare data, and create visually compelling reports that provide business value.
 
-## Contact
-If you have any questions or feedback, feel free to reach out to me at [your email or GitHub link].
+
 
 
